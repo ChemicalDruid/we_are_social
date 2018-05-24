@@ -1,0 +1,10 @@
+[
+{
+    "model": "threads.subject",
+    "pk": 1,
+    "fields": {
+        "name": "Football",
+        "description": "<p>European, not American!</p>"
+    }
+}
+]
