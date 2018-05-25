@@ -7,7 +7,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'pw8ppj4nrl(m7&r-g3orq7j57ouj@*yeyfjq2^zn$wg2+uoix='
 
 ALLOWED_HOSTS = []
-SITE_ID = 2
+SITE_ID = 3
 
 # Application definition
 INSTALLED_APPS = [
