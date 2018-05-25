@@ -1,0 +1,521 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "5678kxgv7zydow361j9gfbt0mfs6v7e3",
+    "fields": {
+        "session_data": "YjkwNDYxYzgzOTQ0ZDdkNzY2MDIzYjJiZWUwZmNhNmUwOTFmNTkxNTp7Il9hdXRoX3VzZXJfaGFzaCI6IjY4ZGY3MjBhMjYzOGM3YjQ0MDdkMzM4NjA4MDMzZmY0OTZmN2E3MzYiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0=",
+        "expire_date": "2018-05-10T09:48:55.631Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "i32rjmuuah0adabgofmfli3xduxpjk5k",
+    "fields": {
+        "session_data": "ZjBjYTZlOTkxNGUzNGY1MzY4ZmEyMTNiOTM4ODQzZjgzN2RmNTlhMDp7Il9hdXRoX3VzZXJfaGFzaCI6IjcwMTdkZTEzZGJmMzNkNWVkMDQwMWI2ODNjMTNhNmQ4ZTg4ODY2ZjEiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0=",
+        "expire_date": "2018-06-08T22:29:49Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ta962ckyjkp2nnjcp6hooyi35v4mwkc6",
+    "fields": {
+        "session_data": "YjkwNDYxYzgzOTQ0ZDdkNzY2MDIzYjJiZWUwZmNhNmUwOTFmNTkxNTp7Il9hdXRoX3VzZXJfaGFzaCI6IjY4ZGY3MjBhMjYzOGM3YjQ0MDdkMzM4NjA4MDMzZmY0OTZmN2E3MzYiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0=",
+        "expire_date": "2018-05-10T09:01:18.659Z"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 2,
+    "fields": {
+        "domain": "example.com",
+        "name": "example.com"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 3,
+    "fields": {
+        "domain": "localhost",
+        "name": "localhost"
+    }
+},
+{
+    "model": "flatpages.flatpage",
+    "pk": 2,
+    "fields": {
+        "url": "/pages/about/",
+        "title": "About Me",
+        "content": "Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2! Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2! Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2! Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2!\r\n\r\nLorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2! Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2! Lorem ipsum ktl ktl ktl. \u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03ba\u03ac\u03b8\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03ac\u03c6\u03c9 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03bb\u03b1\u03ba\u03b5\u03af\u03b5\u03c2!",
+        "enable_comments": false,
+        "template_name": "",
+        "registration_required": false,
+        "sites": [
+            [
+                "localhost"
+            ]
+        ]
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$lDLq3JKAX9zt$I/zyurYWfvp6M6DPqEMol9xhkzkhKjZfsz/DDAp/Ekc=",
+        "last_login": "2018-05-25T22:29:48.979Z",
+        "is_superuser": true,
+        "username": "Sakis",
+        "first_name": "",
+        "last_name": "",
+        "email": "sakis_p@hotmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-05-14T10:09:04.352Z",
+        "stripe_id": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$U1Jm4pbz3tHm$CV8bq5nLBhh/SrxGcxbcRcFa9k75vWglxt/FXBxpIzI=",
+        "last_login": "2018-05-19T11:09:25.808Z",
+        "is_superuser": false,
+        "username": "test@tester.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "test@tester.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-05-19T11:09:14.744Z",
+        "stripe_id": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "name": "Super Stuff",
+        "description": "The greatest product ever!",
+        "price": "999.99"
+    }
+},
+{
+    "model": "magazines.magazine",
+    "pk": 1,
+    "fields": {
+        "name": "Top Stuff",
+        "description": "Nice stuff",
+        "price": "4.99"
+    }
+},
+{
+    "model": "magazines.magazine",
+    "pk": 2,
+    "fields": {
+        "name": "Kid Zone",
+        "description": "Kid stuff",
+        "price": "3.99"
+    }
+},
+{
+    "model": "threads.subject",
+    "pk": 1,
+    "fields": {
+        "name": "Football",
+        "description": "<p>European, not American!</p>"
+    }
+},
+{
+    "model": "threads.thread",
+    "pk": 1,
+    "fields": {
+        "name": "FA Cup Final 2018",
+        "user": [
+            "Sakis"
+        ],
+        "subject": 1,
+        "created_at": "2018-05-19T11:04:18Z"
+    }
+},
+{
+    "model": "threads.thread",
+    "pk": 2,
+    "fields": {
+        "name": "Champions League Final 2018",
+        "user": [
+            "test@tester.com"
+        ],
+        "subject": 1,
+        "created_at": "2018-05-19T11:12:22.937Z"
+    }
+},
+{
+    "model": "threads.post",
+    "pk": 1,
+    "fields": {
+        "thread": 1,
+        "comment": "<p>Will you watch it?</p>",
+        "user": [
+            "Sakis"
+        ],
+        "created_at": "2018-05-19T11:05:50Z"
+    }
+},
+{
+    "model": "threads.post",
+    "pk": 2,
+    "fields": {
+        "thread": 1,
+        "comment": "<p>Of course!</p>",
+        "user": [
+            "test@tester.com"
+        ],
+        "created_at": "2018-05-19T11:09:59.998Z"
+    }
+},
+{
+    "model": "threads.post",
+    "pk": 3,
+    "fields": {
+        "thread": 2,
+        "comment": "<p>Vote and see how much people care about CL!</p>",
+        "user": [
+            "test@tester.com"
+        ],
+        "created_at": "2018-05-19T11:12:22.938Z"
+    }
+},
+{
+    "model": "polls.poll",
+    "pk": 1,
+    "fields": {
+        "question": "Which team will you support?",
+        "thread": 2
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 1,
+    "fields": {
+        "name": "Liverpool FC",
+        "poll": 1
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 2,
+    "fields": {
+        "name": "Real Madrid CF",
+        "poll": 1
+    }
+},
+{
+    "model": "polls.pollsubject",
+    "pk": 3,
+    "fields": {
+        "name": "Neither - I don't care",
+        "poll": 1
+    }
+},
+{
+    "model": "polls.vote",
+    "pk": 1,
+    "fields": {
+        "poll": 1,
+        "subject": 1,
+        "user": [
+            "test@tester.com"
+        ]
+    }
+},
+{
+    "model": "reusable_blog.post",
+    "pk": 1,
+    "fields": {
+        "author": [
+            "Sakis"
+        ],
+        "title": "Hi everyone!",
+        "content": "Just a quick shoutout to everyone using this website!\r\n\r\nMay you find what you are looking for.\r\n\r\nUntil next time!",
+        "created_date": "2018-05-16T09:43:30.279Z",
+        "published_date": "2018-05-16T09:44:45Z",
+        "views": 0,
+        "tag": "firstpost",
+        "image": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2018-04-26T09:09:06.881Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "3",
+        "object_repr": "localhost",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2018-04-26T09:19:47.406Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2018-04-26T09:27:14.278Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2018-04-26T09:30:24.774Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2018-04-26T09:31:06.751Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "2",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2018-04-26T09:50:22.585Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "2",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2018-04-26T09:52:04.381Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "2",
+        "object_repr": "/pages/about/ -- About Me",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2018-05-14T10:11:58.116Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "magazines",
+            "magazine"
+        ],
+        "object_id": "1",
+        "object_repr": "Top Stuff",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2018-05-14T10:12:20.870Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "magazines",
+            "magazine"
+        ],
+        "object_id": "2",
+        "object_repr": "Kid Zone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2018-05-16T09:41:20.537Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "Super Stuff",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2018-05-16T09:43:30.283Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "Hi everyone!",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2018-05-16T09:44:47.041Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "reusable_blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "Hi everyone!",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"published_date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2018-05-19T11:04:09.533Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "threads",
+            "subject"
+        ],
+        "object_id": "1",
+        "object_repr": "Football",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2018-05-19T11:04:37.362Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "threads",
+            "thread"
+        ],
+        "object_id": "1",
+        "object_repr": "Thread object",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2018-05-19T11:06:16.185Z",
+        "user": [
+            "Sakis"
+        ],
+        "content_type": [
+            "threads",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "Post object",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
