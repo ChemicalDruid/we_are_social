@@ -14,11 +14,11 @@ STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE', 'pk_test_oTWXN1820at0e3NQzZ
 STRIPE_SECRET = os.getenv('STRIPE_SECRET', 'sk_test_aC7taKzPyBSL8M5O97p1mjsM')
 
 # PayPal environment variables
-PAYPAL_NOTIFY_URL = 'http://6b088003.ngrok.io/a-very-hard-to-guess-url/'
+PAYPAL_NOTIFY_URL = 'http://codeinst-social-staging.herokuapp.com/a-very-hard-to-guess-url/'
 PAYPAL_RECEIVER_EMAIL = 'sakis.platsas-paypalmerch@gmail.com'
 
-SITE_URL = 'https://your-heroku-app.herokuapp.com'
-ALLOWED_HOSTS.append('your-heroku-app.herokuapp.com')
+SITE_URL = 'https://codeinst-social-staging.herokuapp.com'
+ALLOWED_HOSTS.append('codeinst-social-staging.herokuapp.com')
 
 # Log DEBUG information to the console
 LOGGING = {
